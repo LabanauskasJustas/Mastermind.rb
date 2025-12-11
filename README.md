@@ -1,3 +1,3 @@
-# Mastermind game in Ruby
+# Mastermind game in Ruby: https://www.theodinproject.com/lessons/ruby-mastermind
 
-- bin/play - executable to start the game
+- `bin/play` - executable to start the game
